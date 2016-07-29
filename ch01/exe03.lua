@@ -1,2 +1,2 @@
-print("Ada")
-print("MySQL")
+--[[ Can you name other languages that use -- for comments? ]]--
+--[[ Ans: Other languages that use -- for comments are Ada and MySQL.]]--

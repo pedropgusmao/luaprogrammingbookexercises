@@ -1,0 +1,2 @@
+--[[ Many people argue that repeat-until is seldom used, and therefore it should not be present in a minimalistic language like Lua. What do you think? ]]-- Ans: I think that repeat-until is useful for those cases where the piece of code must be run at least once. The behavior can be simulated using while and for but usually must include an extra line or two outside of the code to consider the initial case. 
+
